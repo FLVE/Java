@@ -1,0 +1,16 @@
+HELP.md
+<<<<<<< HEAD
+target/
+!.mvn/
+=======
+>>>>>>> 13e1edcd9d9d3fcf1b44f4e5f7ac9e81697015d6
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+<<<<<<< HEAD
+=======
+target/
+>>>>>>> 13e1edcd9d9d3fcf1b44f4e5f7ac9e81697015d6
